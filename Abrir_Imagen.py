@@ -6,6 +6,8 @@ imagen=cv2.imread('logopy.png')           #creando variable que almacenará la i
 
 print("Aqui hay una imagen")
 
+#Este comentario se hizo desde el server
+
 cv2.waitKey(0)                            #Esta funcion mostrará la imagen cierto tiempo o en este caso hasta que digitemos algo en el teclado.
 
 cv2.destroyAllWindows()                   #Cierra las ventanas creadas.
